@@ -1,5 +1,3 @@
-## Hi!
-
 I'm python :snake: backend developer.
 
 ### My projects: 
@@ -12,11 +10,11 @@ I'm python :snake: backend developer.
 - Docker [Docker homework](https://github.com/Zeilanda/netology_docker_for_nginx)
 
 ### Certificates
-## Netology
+#### Netology
 - Python https://github.com/Zeilanda/Zeilanda/blob/main/certificate(main).pdf
 - Django https://github.com/Zeilanda/Zeilanda/blob/main/certificate%20(django).pdf
 - Python in web development https://github.com/Zeilanda/Zeilanda/blob/main/certificate%20(python).pdf
-## Otus
+#### Otus
 - Python https://github.com/Zeilanda/Zeilanda/blob/main/otus.pdf
 
 <!--
